@@ -32,7 +32,7 @@
     "import-fresh": "^3.3.0",
     "ngrok": "^4.3.3",
     "opn": "^6.0.0",
-    "webpack": "5.76.2"
+    "webpack": "5.98.0"
   },
   "devDependencies": {
     "@types/chai": "^4.2.3",
