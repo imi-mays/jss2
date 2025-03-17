@@ -32,7 +32,7 @@
     "url": "https://github.com/sitecore/jss/issues"
   },
   "dependencies": {
-    "@sitecore-jss/sitecore-jss-dev-tools": "22.2.0-canary.77",
+    "@sitecore-jss/sitecore-jss-dev-tools": "3.0.0",
     "chalk": "^4.1.2",
     "cross-spawn": "^7.0.3",
     "dotenv": "^16.0.3",
