@@ -49,7 +49,7 @@
   },
   "dependencies": {
     "@sitecore-jss/sitecore-jss": "22.2.0-canary.77",
-    "@vue/compiler-sfc": "^3.0.11"
+    "@vue/compiler-sfc": "^3.5.14"
   },
   "types": "./types/index.d.ts",
   "gitHead": "2f4820efddf4454eeee58ed1b2cc251969efdf5b",
