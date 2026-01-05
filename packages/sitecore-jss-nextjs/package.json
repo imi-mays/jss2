@@ -73,7 +73,7 @@
   },
   "dependencies": {
     "@sitecore-jss/sitecore-jss": "22.2.0-canary.77",
-    "@sitecore-jss/sitecore-jss-dev-tools": "22.2.0-canary.77",
+    "@sitecore-jss/sitecore-jss-dev-tools": "3.0.0",
     "@sitecore-jss/sitecore-jss-react": "22.2.0-canary.77",
     "@vercel/kv": "^0.2.1",
     "prop-types": "^15.8.1",
