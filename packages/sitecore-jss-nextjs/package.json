@@ -72,9 +72,9 @@
     "react-dom": "^18.2.0"
   },
   "dependencies": {
-    "@sitecore-jss/sitecore-jss": "22.2.0-canary.77",
+    "@sitecore-jss/sitecore-jss": "1.0.2",
     "@sitecore-jss/sitecore-jss-dev-tools": "22.2.0-canary.77",
-    "@sitecore-jss/sitecore-jss-react": "22.2.0-canary.77",
+    "@sitecore-jss/sitecore-jss-react": "1.0.0",
     "@vercel/kv": "^0.2.1",
     "prop-types": "^15.8.1",
     "regex-parser": "^2.2.11",
